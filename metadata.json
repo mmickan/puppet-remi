@@ -1,0 +1,26 @@
+{
+  "name": "mmickan-remi",
+  "version": "0.0.1",
+  "source": "https://github.com/mmickan/puppet-remi",
+  "author": "mmickan",
+  "license": "Apache 2.0",
+  "summary": "Configure the Remi RPM repository",
+  "description": "Configure the Remi RPM repository",
+  "project_page": "https://github.com/mmickan/puppet-remi",
+  "dependencies": [
+    {
+      "name": "puppetlabs/stdlib",
+      "version_requirement": "<5.0.0"
+    }
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    }
+  ]
+}
