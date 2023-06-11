@@ -1,6 +1,10 @@
-#remi
+**This repository has been archived**
 
-##Description
+This repository is no longer maintained.
+
+# remi
+
+## Description
 
 This module will install the Remi repository.
 
